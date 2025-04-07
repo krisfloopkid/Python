@@ -1,0 +1,7 @@
+repositories:
+ - name: python
+   url: https://gitverse.ru/mishhgun/graph-builder.git
+   branch: master
+ - name: awesome
+   url: https://gitverse.ru/mishhgun/fsnotify-test.git
+   branch: main
