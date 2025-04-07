@@ -1,7 +1,7 @@
 repositories:
  - name: python
-   url: https://gitverse.ru/mishhgun/graph-builder.git
+   url: https://github.com/krisfloopkid/Python.git
    branch: master
  - name: awesome
-   url: https://gitverse.ru/mishhgun/fsnotify-test.git
+   url: https://github.com/krisfloopkid/awesome.git
    branch: main
