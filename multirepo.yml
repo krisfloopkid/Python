@@ -1,5 +1,5 @@
 repositories:
- - name: kris@!#.
+ - name: kris
    url: git@github.com:krisfloopkid/krisfloopkid.git
    branch: master
  - name: awesome
