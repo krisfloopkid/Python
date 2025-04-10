@@ -1,7 +1,7 @@
 repositories:
  - name: kris@!#.
-   url: https://github.com/krisfloopkid/krisfloopkid.git
+   url: git@github.com:krisfloopkid/krisfloopkid.git
    branch: master
  - name: awesome
-   url: https://github.com/krisfloopkid/awesome.git
+   url: git@github.com:krisfloopkid/awesome.git
    branch: main
