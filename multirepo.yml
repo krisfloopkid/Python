@@ -1,6 +1,6 @@
 repositories:
- - name: python
-   url: https://github.com/krisfloopkid/Python.git
+ - name: kris@!#.
+   url: https://github.com/krisfloopkid/krisfloopkid.git
    branch: master
  - name: awesome
    url: https://github.com/krisfloopkid/awesome.git
