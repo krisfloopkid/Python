@@ -1,7 +1,7 @@
 repositories:
- - name: kris
-   url: git@github.com:krisfloopkid/krisfloopkid.git
-   branch: main
+ - name: evershop
+   url: https://github.com/krisfloopkid/evershop.git
+   branch: dev
  - name: awesome
-   url: git@github.com:krisfloopkid/awesome.git
+   url: https://github.com/krisfloopkid/awesome.git
    branch: main
